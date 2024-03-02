@@ -5,10 +5,3 @@ We have not uploaded "similarity.pkl" file of Model folder here because of its s
 You can download the "similarity.pkl" file of Model folder from here: https://drive.google.com/file/d/1qJ6vusgOv68jsMuCYt79yfYTTAWfBEJ8/view?usp=sharing
 We could optimize this model a little bit by assigning weightage to the user-defined priorities on the genre, cast, director and other concerned parameters.
 
-## Contributers
->[Bishwajit Prasad Gond](https://github.com/bishwajitprasadgond);
->[Abhishek Ghosh](https://github.com/Abhishekghosh1998);
->[Abhinaba Chakraborty](https://github.com/Abhinaba2000);
->[Sayak Nath](https://github.com/LenivanX);
->[Atanu Paul](https://github.com/atanu04);
-
